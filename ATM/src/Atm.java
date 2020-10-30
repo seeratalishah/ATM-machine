@@ -13,7 +13,7 @@ public class Atm {
 		Scanner obj = new Scanner(System.in);
 		x= obj.nextInt();
 		
-		System.out.println("Select account type");
+		System.out.println("Select your account type ");
 		System.out.println("Press 1 for saving account");
 		System.out.println("Press 2 for current account");
 		int y;
